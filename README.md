@@ -1,4 +1,4 @@
-# blue202task
+# blue202labs task
 blue202labstask react-native sign-in screen
 ## step 1
 run `git clone https://github.com/Hazem-Alsaqaan/blue202task.git`
