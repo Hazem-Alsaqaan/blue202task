@@ -1,13 +1,14 @@
 # blue202task
 blue202labstask react-native sign-in screen
 ## step 1
-run `git clone (https://github.com/Hazem-Alsaqaan/blue202task.git)`
+run `git clone https://github.com/Hazem-Alsaqaan/blue202task.git`
 to clone this repo on your local device
 ## step 2
 run `npm install`
 to install dependences
 ## step 3
 run `npx expo start`
+to display the app
 
 ## About Task
 **Core Technologies used** 
