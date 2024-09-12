@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "blue202labstask",
+    "slug": "blue202labstask",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "34b725bc-9875-4857-bf06-79e6544b0b83"
+      }
+    },
+    "owner": "hazem-alsaqaan",
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
